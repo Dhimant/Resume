@@ -4,6 +4,7 @@ PHP Developer (Magento) at CzarGroup of Technologies
 **Email:**  ptl*******@gmail.com  
 **Website:** [NoobProgrammer.com](http://www.noobprogrammer.com/)  
 **LinkedIn:** [linkedin.com/in/dhimant-patel-46b18920/](https://www.linkedin.com/in/dhimant-patel-46b18920/)  
+**StackOverflow:** [stackoverflow.com/in/dhimant-patel-46b18920/](https://stackoverflow.com/users/1579996/dhimant)    
 
 **GitHub:**  
 * [GitHub.com/Dhimant/](https://github.com/Dhimant/)  
@@ -36,7 +37,7 @@ ___
   
 January 2013 - Present
 
-* Doing freelance programming since 2013, Now I am more focused on providing bug fixed and performance enhancements. 
+* Doing freelance programming since 2013, Now I am more focused on providing bug fixes and performance enhancements. 
 
 ___
 
@@ -53,12 +54,14 @@ July 2016 - December 2016 (5 months)
 
 ___
 
-**Jr. PHP Developer at I-Vision infotech .** 
+**Jr. PHP Developer at I-Vision infotech**  
+
 May 2014 - December 2015 (1 year 7 months)
 
 ___
 
-**Trainee / Intern** 
+**Trainee / Intern**  
+
 January 2012 - July 2012 (6 months)
 * As a trainee at i-Creation I worked on a development of commercial social network platform. 
   As a trainee I was involved in developing the backend and plugin dev architect of the system. 
