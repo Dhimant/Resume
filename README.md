@@ -23,7 +23,7 @@ ___
 
 **Experience** 
 
-**PHP Developer at Czargroup Technologies** 
+**Magento/PHP Developer at Czargroup Technologies** 
 
 January 2017 - Present
 
